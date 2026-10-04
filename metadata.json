@@ -1,0 +1,6 @@
+{
+  "name": "Excuse Finder",
+  "description": "AI-powered tactical excuse generator with bold alibis, situation calibration, and local incident archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
